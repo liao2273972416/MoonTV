@@ -85,5 +85,9 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
+    "wuming": {
+      "api": "https://www.gying.in/api.php/provide/vod",
+      "name": "无名资源"
+    }
   }
 }
